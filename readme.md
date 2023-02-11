@@ -1,6 +1,6 @@
 # Full Stack JavaScript
 
-## Beats landing page
+## Real estate landing page
 
 ## [Click here](https://realestatelandingpagesa.netlify.app/)
 
